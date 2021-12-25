@@ -1,4 +1,4 @@
-### sockets
+## sockets
 
 this shows how sockets work in networking 
 - the server side
